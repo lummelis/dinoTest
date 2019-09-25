@@ -1,0 +1,12 @@
+html,
+body {
+  background-color: #fff;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  /* overflow: hidden; */
+}
+
+#bm1, #bm2, #bm3, #bm4, #bm5, #bm6, #bm7, #bm8, #bm9, #bm10{
+  width: 30%;
+}
